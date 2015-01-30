@@ -1,0 +1,8 @@
+D:\GIT\Personal\DSA\DataStructureAlgorithm\UserInterface\bin\Debug\UserInterface.exe.config
+D:\GIT\Personal\DSA\DataStructureAlgorithm\UserInterface\bin\Debug\UserInterface.exe
+D:\GIT\Personal\DSA\DataStructureAlgorithm\UserInterface\bin\Debug\UserInterface.pdb
+D:\GIT\Personal\DSA\DataStructureAlgorithm\UserInterface\bin\Debug\DSALib.dll
+D:\GIT\Personal\DSA\DataStructureAlgorithm\UserInterface\bin\Debug\DSALib.pdb
+D:\GIT\Personal\DSA\DataStructureAlgorithm\UserInterface\obj\Debug\UserInterface.csprojResolveAssemblyReference.cache
+D:\GIT\Personal\DSA\DataStructureAlgorithm\UserInterface\obj\Debug\UserInterface.exe
+D:\GIT\Personal\DSA\DataStructureAlgorithm\UserInterface\obj\Debug\UserInterface.pdb

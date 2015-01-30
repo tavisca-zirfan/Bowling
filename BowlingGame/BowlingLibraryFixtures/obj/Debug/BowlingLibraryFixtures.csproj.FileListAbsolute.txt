@@ -5,3 +5,10 @@ D:\PaymentPOC\BowlingGame\BowlingLibraryFixtures\bin\Debug\BowlingLibrary.pdb
 D:\PaymentPOC\BowlingGame\BowlingLibraryFixtures\obj\Debug\BowlingLibraryFixtures.csprojResolveAssemblyReference.cache
 D:\PaymentPOC\BowlingGame\BowlingLibraryFixtures\obj\Debug\BowlingLibraryFixtures.dll
 D:\PaymentPOC\BowlingGame\BowlingLibraryFixtures\obj\Debug\BowlingLibraryFixtures.pdb
+D:\GIT\Personal\Bowling\BowlingGame\BowlingLibraryFixtures\bin\Debug\BowlingLibraryFixtures.dll
+D:\GIT\Personal\Bowling\BowlingGame\BowlingLibraryFixtures\bin\Debug\BowlingLibraryFixtures.pdb
+D:\GIT\Personal\Bowling\BowlingGame\BowlingLibraryFixtures\bin\Debug\BowlingLibrary.dll
+D:\GIT\Personal\Bowling\BowlingGame\BowlingLibraryFixtures\bin\Debug\BowlingLibrary.pdb
+D:\GIT\Personal\Bowling\BowlingGame\BowlingLibraryFixtures\obj\Debug\BowlingLibraryFixtures.csprojResolveAssemblyReference.cache
+D:\GIT\Personal\Bowling\BowlingGame\BowlingLibraryFixtures\obj\Debug\BowlingLibraryFixtures.dll
+D:\GIT\Personal\Bowling\BowlingGame\BowlingLibraryFixtures\obj\Debug\BowlingLibraryFixtures.pdb

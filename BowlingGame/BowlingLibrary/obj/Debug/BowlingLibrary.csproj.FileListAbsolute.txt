@@ -3,3 +3,8 @@ D:\PaymentPOC\BowlingGame\BowlingLibrary\bin\Debug\BowlingLibrary.pdb
 D:\PaymentPOC\BowlingGame\BowlingLibrary\obj\Debug\BowlingLibrary.csprojResolveAssemblyReference.cache
 D:\PaymentPOC\BowlingGame\BowlingLibrary\obj\Debug\BowlingLibrary.dll
 D:\PaymentPOC\BowlingGame\BowlingLibrary\obj\Debug\BowlingLibrary.pdb
+D:\GIT\Personal\Bowling\BowlingGame\BowlingLibrary\bin\Debug\BowlingLibrary.dll
+D:\GIT\Personal\Bowling\BowlingGame\BowlingLibrary\bin\Debug\BowlingLibrary.pdb
+D:\GIT\Personal\Bowling\BowlingGame\BowlingLibrary\obj\Debug\BowlingLibrary.csprojResolveAssemblyReference.cache
+D:\GIT\Personal\Bowling\BowlingGame\BowlingLibrary\obj\Debug\BowlingLibrary.dll
+D:\GIT\Personal\Bowling\BowlingGame\BowlingLibrary\obj\Debug\BowlingLibrary.pdb

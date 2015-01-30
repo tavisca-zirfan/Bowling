@@ -1,0 +1,7 @@
+D:\GIT\Personal\DSA\DataStructureAlgorithm\DSAFixtures\bin\Debug\DSAFixtures.dll
+D:\GIT\Personal\DSA\DataStructureAlgorithm\DSAFixtures\bin\Debug\DSAFixtures.pdb
+D:\GIT\Personal\DSA\DataStructureAlgorithm\DSAFixtures\bin\Debug\DSALib.dll
+D:\GIT\Personal\DSA\DataStructureAlgorithm\DSAFixtures\bin\Debug\DSALib.pdb
+D:\GIT\Personal\DSA\DataStructureAlgorithm\DSAFixtures\obj\Debug\DSAFixtures.csprojResolveAssemblyReference.cache
+D:\GIT\Personal\DSA\DataStructureAlgorithm\DSAFixtures\obj\Debug\DSAFixtures.dll
+D:\GIT\Personal\DSA\DataStructureAlgorithm\DSAFixtures\obj\Debug\DSAFixtures.pdb

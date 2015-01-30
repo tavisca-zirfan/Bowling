@@ -45,11 +45,7 @@ namespace BowlingLibrary
             bowlingSets[setNumber] = currentBowlingSet;
         }
 
-        private void CalculateScoreForLastSet()
-        {
-            
-        }
-
+        
         private void CalculateForSpare()
         {
             var setToBeCalculated = bowlingSets[scoredSet];

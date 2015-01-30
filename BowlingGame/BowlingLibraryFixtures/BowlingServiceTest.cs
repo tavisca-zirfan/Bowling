@@ -32,6 +32,15 @@ namespace BowlingLibraryFixtures
         }
 
         [TestMethod]
+        public void ShouldGiveNextSetNumberWhenStrike()
+        {
+            var bowlingGame = new BowlingService();
+            var score = RollBall(4, 2, bowlingGame);
+            score = RollBall(10, 1, bowlingGame);
+            Assert.AreEqual(3, bowlingGame.SetNumber);
+        }
+
+        [TestMethod]
         public void ShouldGiveCurrentSetNumberWhenNotCompleted()
         {
             var bowlingGame = new BowlingService();
@@ -49,12 +58,39 @@ namespace BowlingLibraryFixtures
         }
 
         [TestMethod]
+        public void ShouldGiveBonusIfSpare()
+        {
+            var bowlingGame = new BowlingService();
+            var score = RollBall(5, 2, bowlingGame);
+            score = RollBall(4, 2, bowlingGame);
+            Assert.AreEqual(22, score);
+        }
+
+        [TestMethod]
         public void ShouldGive300IfAllStrike()
         {
             var bowlingGame = new BowlingService();
             var score = RollBall(10, 12, bowlingGame);
             //score = RollBall(4, 2, bowlingGame);
             Assert.AreEqual(300, score);
+        }
+
+        [TestMethod]
+        public void ShouldNotAddScoreWhenGameCompleted()
+        {
+            var bowlingGame = new BowlingService();
+            var score = RollBall(10, 13, bowlingGame);
+            //score = RollBall(4, 2, bowlingGame);
+            Assert.AreEqual(300, score);
+        }
+
+        [TestMethod]
+        public void ShouldShowGameCompletedWhenAllSetsComplete()
+        {
+            var bowlingGame = new BowlingService();
+            var score = RollBall(10, 13, bowlingGame);
+            //score = RollBall(4, 2, bowlingGame);
+            Assert.AreEqual(true, bowlingGame.IsGameOver);
         }
 
         private int RollBall(int noOfPins,int noOfTimes,IBowlingService bowling)
